@@ -12,6 +12,6 @@ public class Now {
 
     public class Cond{
         @SerializedName("txt")
-        public String txt;
+        public String info;
     }
 }
